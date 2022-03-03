@@ -24,4 +24,4 @@
 
 <img src="https://gaoxiaoduan-stats-github.vercel.app/api?username=gaoxiaoduan&count_private=true&show_icons=true&theme=cobalt" />
 <br />
-<img src="https://gaoxiaoduan-stats-github.vercel.app/api/top-langs/?username=gaoxiaoduan&langs_count=10&layout=compact" />
+<img src="https://gaoxiaoduan-stats-github.vercel.app/api/top-langs/?username=gaoxiaoduan&count_private=true&langs_count=10&layout=compact" />
